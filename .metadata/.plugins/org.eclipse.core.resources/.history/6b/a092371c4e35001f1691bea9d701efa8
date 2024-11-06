@@ -1,0 +1,16 @@
+
+public class escopoEInicializacao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		double price = 400.00;
+		
+		if (price < 200) {
+			double discount = price * 0.1;
+		}
+		
+		System.out.println(price);
+	}
+
+}
